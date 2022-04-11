@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "209724406935",
+    "project_id": "savvy-renos-and-design",
+    "storage_bucket": "savvy-renos-and-design.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209724406935:android:89528365174a76327efdd2",
+        "android_client_info": {
+          "package_name": "savvy.savvy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209724406935-1sh2rheregcmge4aejfg33fmlbb5bvtp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt4i179iyY4BTE1DOouG26b09ANlr-K0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209724406935-1sh2rheregcmge4aejfg33fmlbb5bvtp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "209724406935-9bqc194ao1sjs05h8a1u80qnfv6frnp2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "savvy.savvy"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

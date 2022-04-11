@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Savvy Renos and Design</string>
+    <string name="facebook_app_id">1017737805734610</string>
+    <string name="fb_login_protocol_scheme">fb1017737805734610</string>
+</resources>
+    <!-- Needed for Facebook login - end of updates -->
